@@ -3,10 +3,10 @@ import { TaskCardWithGithub } from "@/components/TaskCardWithGithub";
 
 const Week2 = () => {
   const task = {
-    title: 'Разработка АИС "Персональный Финансовый менеджер"',
-    description: "Приложение, разработанное для того, чтобы помочь вам легко и удобно управлять вашими личными финансами",
-    githubLink: "https://github.com/Bahdan321/Study-Practice-3-course",
-    screenshots: ["/public/secondWeek/ERD.png", "/public/secondWeek/ChoiceDiagramm.png", "/public/secondWeek/StateDiagramm.png", "/public/secondWeek/StateDiagramm.png", "/public/secondWeek/DetailSchema.png", "/public/secondWeek/BigDiagramm.jpg", "/public/secondWeek/SecondBigDiagramm.jpg", "/public/secondWeek/First.png", "public/secondWeek/Second.png", "public/secondWeek/Third.png", "public/secondWeek/Fourth.png", "public/secondWeek/Five.png", "public/secondWeek/Six.png", "public/secondWeek/Seven.png", "public/secondWeek/Eight.png", "public/secondWeek/Nine.png", "public/secondWeek/Ten.png"],
+    title: 'Разработка АИС "Компьютерной техники и периферийных устройств"',
+    description: "Приложение, разработанное для того, чтобы клиенты могли добавлять товары в корзину и создавать заказы.А все это могли отслеживать администраторы.",
+    githubLink: "https://github.com/1Haruko1/praktika",
+    screenshots: ["/public/secondWeek/ERD.png", "/public/secondWeek/ChoiceDiagramm.png", "/public/secondWeek/StateDiagramm.png", "/public/secondWeek/DetailSchema.png", "/public/secondWeek/BigDiagramm.jpg", "/public/secondWeek/SecondBigDiagramm.jpg", "/public/secondWeek/first.jpg", "public/secondWeek/second.jpg", "public/secondWeek/third.jpg", "public/secondWeek/fourth.jpg", "public/secondWeek/five.jpg", "public/secondWeek/six.jpg", "public/secondWeek/seven.jpg", "public/secondWeek/eight.jpg", "public/secondWeek/nine.jpg"],
   };
 
   return (
